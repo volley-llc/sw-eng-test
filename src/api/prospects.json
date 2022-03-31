@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "customerId": 1,
+        "firstName": "Erik",
+        "lastName": "Stevens",
+        "email": "killmonger@villians.net"
+    },
+    {
+        "id": 2,
+        "customerId": null,
+        "firstName": "Sam",
+        "lastName": "Wilson",
+        "email": "falcon@avengers.com"
+    }
+]
